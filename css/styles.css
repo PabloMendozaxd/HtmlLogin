@@ -17,3 +17,25 @@ body {
     display: flex;
     align-items: flex-start;
   }
+  .login{
+    background:linear-gradient(#BEEDD4,#A4A5AE);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .login__container{
+
+  }
+  .login__container--form{
+
+  }
+  .login__container--social-media{
+    
+  }
+  .login__container--register{
+
+  }
+  .footer{
+
+  }
