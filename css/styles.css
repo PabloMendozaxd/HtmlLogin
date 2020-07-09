@@ -9,9 +9,14 @@ body {
     color: white;
     display: flex;
     height: 100px;
-    justify-content: space-between;
+    justify-content: flex-start;
     top: 0px;
     width: 100%;
+  }
+  .header >div >h1{
+    margin-left: 10px;
+    font-weight: bold;
+    color: #8F6D9B;
   }
   .header__img {
     display: flex;
